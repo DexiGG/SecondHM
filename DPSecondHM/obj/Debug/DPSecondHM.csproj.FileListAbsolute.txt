@@ -1,0 +1,7 @@
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\bin\Debug\DPSecondHM.exe.config
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\bin\Debug\DPSecondHM.exe
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\bin\Debug\DPSecondHM.pdb
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\obj\Debug\DPSecondHM.csprojAssemblyReference.cache
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\obj\Debug\DPSecondHM.csproj.CoreCompileInputs.cache
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\obj\Debug\DPSecondHM.exe
+C:\Users\Dex\source\repos\DPSecondHM\DPSecondHM\obj\Debug\DPSecondHM.pdb
